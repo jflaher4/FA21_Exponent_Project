@@ -23,6 +23,9 @@ We worked under the mentorship of a Notre Dame alum from Exponent, a nationwide 
 - Jermaine Marshall
 ### Resources
 - [Housing Dataset from Kaggle Competition](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview)
-- [NumPy Documentation](https://numpy.org/doc/stable/user/index.html)
 - [Pro Git](https://git-scm.com/book/en/v2)
+- [NumPy Documentation](https://numpy.org/doc/stable/user/index.html)
 - [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html)
+- [scikit-learn Documentation](https://scikit-learn.org/stable/user_guide.html)
+- [Machine Learning Mastery](https://machinelearningmastery.com/)
+- [Towards Data Science](https://towardsdatascience.com/)
