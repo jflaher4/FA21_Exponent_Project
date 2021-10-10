@@ -26,4 +26,4 @@ We worked under the mentorship of a Notre Dame alum from Exponent, a nationwide 
 - [Pro Git](https://git-scm.com/book/en/v2)
 - [NumPy Documentation](https://numpy.org/doc/stable/user/index.html)
 - [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html)
-- [scikit-learn](https://scikit-learn.org/stable/user_guide.html)
+- [scikit-learn Documentation](https://scikit-learn.org/stable/user_guide.html)
