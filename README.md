@@ -27,3 +27,5 @@ We worked under the mentorship of a Notre Dame alum from Exponent, a nationwide 
 - [NumPy Documentation](https://numpy.org/doc/stable/user/index.html)
 - [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html)
 - [scikit-learn Documentation](https://scikit-learn.org/stable/user_guide.html)
+- [Machine Learning Mastery](https://machinelearningmastery.com/)
+- [Towards Data Science](https://towardsdatascience.com/)
