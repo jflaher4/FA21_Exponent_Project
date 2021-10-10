@@ -1,6 +1,6 @@
 # Exponent Data Science Project
 This is the official GitHub repository for the 2021 Fall Semester Data Science Club Exponent Project at the Univeristy of Notre Dame.
-We worked under the mentorship of a Notre Dame alum from Exponent, a nationwide scientific and engineering consulting firm.
+We worked under the mentorship of a Notre Dame alum from Exponent, a multi-disciplinary scientific and engineering consulting firm with offices in three continents.
 
 ### Project Goals
 - Parse large dataset of residential data to build predictor model for house prices based on numerous features.
