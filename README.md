@@ -12,7 +12,7 @@ We worked under the mentorship of a Notre Dame alum from [Exponent](https://www.
 - Sunny Li
 #### Project Members  
 - Robert Xu 
-- Daniel Lelusic
+- Daniel Ielusic
 - Walker Bagley 
 #### Industry Mentor
 - Jermaine Marshall
