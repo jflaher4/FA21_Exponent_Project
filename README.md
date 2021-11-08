@@ -10,15 +10,10 @@ We worked under the mentorship of a Notre Dame alum from [Exponent](https://www.
 #### Project Leaders
 - John Flaherty
 - Sunny Li
-#### Project Members 
-- Marton Barta 
-- Jingchen Xu 
-- Andrew Borgie
+#### Project Members  
+- Robert Xu 
 - Daniel Lelusic
-- Doyup Kwon
-- James Plaschke
 - Walker Bagley 
-- Sean Bean
 #### Industry Mentor
 - Jermaine Marshall
 ### Resources
