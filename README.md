@@ -9,7 +9,6 @@ We worked under the mentorship of a Notre Dame alum from [Exponent](https://www.
 ### Our Team
 #### Project Leaders
 - John Flaherty
-- Sunny Li
 #### Project Members  
 - Robert Xu 
 - Daniel Ielusic
